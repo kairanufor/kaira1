@@ -1,2 +1,11 @@
-these are necessities for building in deveops
-Devop ntools
+#these are necessities for building in deveops
+Devop tools
+AWS
+maven
+tomcat
+sonarqube
+jenkins
+nexus
+ansible
+docker
+kubinates
