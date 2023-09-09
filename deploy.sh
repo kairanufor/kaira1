@@ -7,3 +7,4 @@ deployement5
 =======
 deployement6
 >>>>>>> dev
+the bug is resoloved
