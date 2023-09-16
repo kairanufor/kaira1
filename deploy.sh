@@ -1,5 +1,4 @@
-
-deploy python files
+#use  this script to deploy python files
 deploy in the dev branch
 deployemment4
 <<<<<<< HEAD
